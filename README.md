@@ -1,6 +1,6 @@
 # Click Time Logger
 
-A simple web application that logs the exact time when a button is clicked and displays it on the page. This project demonstrates basic front-end interaction using HTML, CSS, and JavaScript.
+A simple web application that logs the exact time when a button is clicked and displays it on the page. This project demonstrates basic front-end interaction using HTML, CSS and JavaScript.
 
 ## Features
 - Interactive button that logs click events
