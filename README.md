@@ -11,11 +11,11 @@ A simple web application that logs the exact time when a button is clicked and d
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+   ```
    git clone https://github.com/sallenux/docs-as-code-starter.git
    ```
 2. **Navigate into the project folder**:
-   ```bash
+   ```
    cd docs-as-code-starter
    ```
 3. **Open the project**:
